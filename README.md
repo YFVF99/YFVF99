@@ -1,44 +1,43 @@
 <p align="center">
-  <img src="img/banner.jpg" width="100%" alt="Buraco negro" />
+  <img src="img/banner.jpg" width="100%" alt="Black hole" />
 </p>
 
 <h1 align="center">Yuri</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3000&pause=1000&color=5AB4FF&center=true&vCenter=true&width=560&lines=Crio+minhas+pr%C3%B3prias+ferramentas+com+IA;Canais+dark+no+YouTube;Editando+no+Premiere+%E2%80%A2+After+%E2%80%A2+Photoshop;Ensinando+o+Claude+a+trabalhar+do+meu+jeito" alt="Apresentação" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3000&pause=1000&color=5AB4FF&center=true&vCenter=true&width=560&lines=Building+my+own+tools+with+AI;Video+editing+%E2%80%A2+Premiere+%E2%80%A2+After+Effects;Teaching+Claude+to+work+my+way;Automating+everything+I+can" alt="Intro" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Brasil-%F0%9F%87%A7%F0%9F%87%B7-1a1440?style=flat-square" />
-  <img src="https://img.shields.io/badge/feito%20com-Claude%20Code-7c5cff?style=flat-square&logo=claude&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=YFVF99&color=3b82f6&style=flat-square&label=visitas" />
+  <img src="https://img.shields.io/badge/Brazil-%F0%9F%87%A7%F0%9F%87%B7-1a1440?style=flat-square" />
+  <img src="https://img.shields.io/badge/built%20with-Claude%20Code-7c5cff?style=flat-square&logo=claude&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=YFVF99&color=3b82f6&style=flat-square&label=views" />
 </p>
 
 ---
 
-## 🪐 Sobre mim
+## 🪐 About me
 
-Sou o **Yuri**, do Brasil. Junto com um amigo, toco um projeto de **canais dark no YouTube**: roteiro, narração, edição e as ferramentas que fazem tudo andar mais rápido.
+I'm **Yuri**, from Brazil. I edit videos and build the tools that make the work faster.
 
-Não sou programador de formação. Descrevo o que quero e construo junto com o **[Claude](https://claude.ai)**. Se falta um programa do jeito que eu trabalho, eu faço o meu.
+I'm not a programmer by training. I describe what I want and build it together with **[Claude](https://claude.ai)**. When the app I need doesn't exist, I make my own.
 
-## 🌌 O que estou construindo
+## 🌌 What I'm building
 
-| Projeto | O que faz |
+| Project | What it does |
 | :-- | :-- |
-| 🎙️ **Tab Recorder** | Extensão do Chrome que grava o som de uma ou várias abas em MP3 ou WAV |
-| 🔎 **Media Hunter** | Lê o roteiro, busca imagens, vídeos, trilha e efeitos e já baixa nas pastas do Premiere |
-| ⛏️ **Dark Gold Miner** | Garimpa o YouTube atrás de canais dark que estão viralizando |
-| 🧸 **Toon Factory** | Fábrica de Shorts 3D feitos só com código (Remotion + Three.js) |
-| 🧠 **claude-skills** | Tudo o que o Claude aprendeu comigo: regras, skills e como restaurar o PC |
+| 🎙️ **Tab Recorder** | Chrome extension that records the audio of one or more tabs to MP3 or WAV |
+| 🔎 **Media Hunter** | Reads a script, finds images, footage, music and sound effects, and drops them into my Premiere folders |
+| 🧸 **Toon Factory** | 3D Shorts made entirely with code (Remotion + Three.js) |
+| 🧠 **claude-skills** | Everything Claude has learned working with me: rules, skills and a full PC restore guide |
 
-<sub>A maioria é privada enquanto está em andamento.</sub>
+<sub>Most of these are private while they're in progress.</sub>
 
-### 🤝 Com o [Dakyo](https://github.com/oykaD)
+### 🤝 With [Dakyo](https://github.com/oykaD)
 
-Wolves of Men (canal de true crime), Dakyo Studio, Clonador de voz, Nano Prompter e os MCPs que deixam o Claude editar direto no **Premiere**, no **After Effects** e no **Photoshop**.
+Voice cloning, video tools, and MCP servers that let Claude work right inside **Premiere Pro**, **After Effects** and **Photoshop**.
 
-## 🛰️ Ferramentas
+## 🛰️ Toolkit
 
 <p>
   <img src="https://img.shields.io/badge/Premiere_Pro-0d0b1e?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" />
@@ -51,14 +50,14 @@ Wolves of Men (canal de true crime), Dakyo Studio, Clonador de voz, Nano Prompte
   <img src="https://img.shields.io/badge/FFmpeg-0d0b1e?style=for-the-badge&logo=ffmpeg&logoColor=5AB4FF" />
 </p>
 
-## ✨ Agora
+## ✨ Right now
 
-- 🎬 Aprendendo a editar no Premiere, um treino de cada vez
-- 🐺 Editando os vídeos do Wolves of Men
-- 🧹 Deixando as skills do Claude mais limpas e organizadas
+- 🎬 Learning Premiere Pro, one exercise at a time
+- 🤖 Teaching Claude to edit inside Adobe apps
+- 🧹 Keeping my Claude skills clean and organized
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:1a1440,50:3b82f6,100:a855f7" width="100%" />
 </p>
 
-<p align="center"><sub>obrigado pela visita 🌠</sub></p>
+<p align="center"><sub>thanks for stopping by 🌠</sub></p>
