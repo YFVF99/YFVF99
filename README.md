@@ -8,7 +8,7 @@
 
 ### ◉ &nbsp;event horizon
 
-My name used to live on the street walls. Now it lives here.
+Some people look at the stars. I fall into them.
 
 I edit videos. I bend time on a timeline, cut the silence and keep only what pulls you in, like a black hole does with light.
 
