@@ -1,30 +1,45 @@
 <p align="center">
-  <img src="img/banner.jpg" width="100%" alt="Black hole" />
-</p>
-
-<h1 align="center">Hi, I'm Yuri 🪐</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=3200&pause=900&color=5AB4FF&center=true&vCenter=true&width=520&lines=Video+editor+from+Brazil;Building+my+own+tools+with+AI;Always+learning+something+new" alt="Intro" />
+  <img src="img/banner.jpg" width="100%" alt="A black hole swallowing the light" />
 </p>
 
 <p align="center">
-  I edit videos and like to build the tools that make the work easier.<br/>
-  When the tool I need doesn't exist, I make it with <a href="https://claude.ai">Claude</a>.
+  <img src="img/header.svg" width="100%" alt="DARK STAR · editor · tool builder · space wanderer" />
+</p>
+
+<h3 align="center"><i>"Gravity is just attention that refuses to let go."</i></h3>
+
+<br/>
+
+### ◉ &nbsp;event horizon
+
+I edit videos. I bend time on a timeline, cut the silence and keep only what pulls you in, like a black hole does with light.
+
+When the tool I need doesn't exist yet, I don't wait for it. I build it, with **Claude** as my co-pilot.
+
+> **Status:** drifting through Premiere, After Effects and Photoshop, one frame at a time.
+
+<br/>
+
+### ✦ &nbsp;in my orbit
+
+<p align="center">
+  <img src="img/orbit.svg" width="100%" alt="Premiere Pro, After Effects, Photoshop, Claude Code, Python and JavaScript orbiting a black hole" />
 </p>
 
 <br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Premiere_Pro-0d0b1e?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" />
-  <img src="https://img.shields.io/badge/After_Effects-0d0b1e?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF" />
-  <img src="https://img.shields.io/badge/Photoshop-0d0b1e?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" />
-  <br/>
-  <img src="https://img.shields.io/badge/Claude_Code-0d0b1e?style=for-the-badge&logo=claude&logoColor=D97757" />
-  <img src="https://img.shields.io/badge/Python-0d0b1e?style=for-the-badge&logo=python&logoColor=5AB4FF" />
-  <img src="https://img.shields.io/badge/JavaScript-0d0b1e?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</p>
+### ☄ &nbsp;mission log
+
+```txt
+[ ok ] learn the timeline             → Premiere Pro
+[ ok ] make things move               → After Effects
+[ .. ] make every frame look intentional
+[ .. ] build the tools nobody made yet
+[ ?? ] reach the singularity
+```
+
+<br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:1a1440,50:3b82f6,100:a855f7" width="100%" />
+  <img src="img/footer.svg" width="100%" alt="End of transmission" />
 </p>
