@@ -1,14 +1,10 @@
 <p align="center">
-  <img src="img/banner.jpg" width="100%" alt="A black hole swallowing the light" />
-</p>
-
-<p align="center">
   <img src="img/header.svg" width="100%" alt="yStar · editor · tool builder · space wanderer" />
 </p>
 
 <h3 align="center"><i>"Gravity is just attention that refuses to let go."</i></h3>
 
-<br/>
+<img src="img/divider.svg" width="100%" />
 
 ### ◉ &nbsp;event horizon
 
@@ -20,7 +16,7 @@ When the tool I need doesn't exist yet, I don't wait for it. I build it, with **
 
 > **Status:** drifting through Premiere, After Effects and Photoshop, one frame at a time.
 
-<br/>
+<img src="img/divider.svg" width="100%" />
 
 ### ✦ &nbsp;in my orbit
 
@@ -28,17 +24,13 @@ When the tool I need doesn't exist yet, I don't wait for it. I build it, with **
   <img src="img/orbit.svg" width="100%" alt="Premiere Pro, After Effects, Photoshop, Claude Code, Python and JavaScript orbiting a black hole" />
 </p>
 
-<br/>
+<img src="img/divider.svg" width="100%" />
 
 ### ☄ &nbsp;mission log
 
-```txt
-[ ok ] learn the timeline             → Premiere Pro
-[ ok ] make things move               → After Effects
-[ .. ] make every frame look intentional
-[ .. ] build the tools nobody made yet
-[ ?? ] reach the singularity
-```
+<p align="center">
+  <img src="img/mission.svg" width="100%" alt="Mission log: learn the timeline, make things move, make every frame look intentional, build the tools nobody made yet, reach the singularity" />
+</p>
 
 <br/>
 

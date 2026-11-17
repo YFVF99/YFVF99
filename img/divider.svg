@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="36" viewBox="0 0 1200 36">
+<defs>
+  <linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#3b82f6" stop-opacity="0"/><stop offset="0.5" stop-color="#6b7cff" stop-opacity="0.6"/><stop offset="1" stop-color="#a855f7" stop-opacity="0"/></linearGradient>
+  <linearGradient id="tail" x1="0" x2="1"><stop offset="0" stop-color="#6ec3ff" stop-opacity="0"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+  <filter id="gl" x="-50%" y="-300%" width="200%" height="700%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<line x1="0" y1="18" x2="1200" y2="18" stroke="url(#ln)" stroke-width="1"/>
+<g filter="url(#gl)"><rect x="-160" y="16.5" width="140" height="3" rx="1.5" fill="url(#tail)"/><circle cx="-18" cy="18" r="3.5" fill="#fff"/>
+<animateTransform attributeName="transform" type="translate" values="0 0;1400 0" dur="5s" repeatCount="indefinite"/></g>
+</svg>
