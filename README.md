@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/header.svg" width="100%" alt="yStar · editor · tool builder · space wanderer" />
+  <img src="img/header.svg" width="100%" alt="Yuri · editor · tool builder · space wanderer" />
 </p>
 
 <h3 align="center"><i>"Gravity is just attention that refuses to let go."</i></h3>
