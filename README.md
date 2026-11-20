@@ -37,7 +37,7 @@ When the tool I need doesn't exist yet, I don't wait for it. I build it, with **
 ### ⌁ &nbsp;signal
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Discord-𝕍∅𝕚𝕕-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=05050e" alt="Discord: 𝕍∅𝕚𝕕" />
+  <img src="img/badge-discord.svg" height="28" alt="Discord: 𝕍∅𝕚𝕕" />
   <img src="https://img.shields.io/badge/status-orbiting-2f7bff?style=for-the-badge&labelColor=05050e" alt="status: orbiting" />
   <img src="https://img.shields.io/badge/co--pilot-Claude-d97757?style=for-the-badge&labelColor=05050e" alt="co-pilot: Claude" />
 </p>
