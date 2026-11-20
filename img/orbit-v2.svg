@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="460" viewBox="0 0 900 460">
 <defs>
   <radialGradient id="bg2" cx="50%" cy="50%" r="70%"><stop offset="0" stop-color="#0b0a1f"/><stop offset="1" stop-color="#03030a"/></radialGradient>
-  <radialGradient id="halo" cx="50%" cy="50%" r="50%"><stop offset="0.45" stop-color="#000"/><stop offset="0.6" stop-color="#c03cff" stop-opacity="0.55"/><stop offset="1" stop-color="#c03cff" stop-opacity="0"/></radialGradient>
-  <linearGradient id="disk" x1="0" x2="1"><stop offset="0" stop-color="#c03cff" stop-opacity="0"/><stop offset="0.5" stop-color="#e8f1ff"/><stop offset="1" stop-color="#a855f7" stop-opacity="0"/></linearGradient>
+  <radialGradient id="halo" cx="50%" cy="50%" r="50%"><stop offset="0.45" stop-color="#000"/><stop offset="0.58" stop-color="#ff8a1f" stop-opacity="0.6"/><stop offset="0.75" stop-color="#d63cff" stop-opacity="0.3"/><stop offset="1" stop-color="#3ff0ff" stop-opacity="0"/></radialGradient>
+  <linearGradient id="disk" x1="0" x2="1"><stop offset="0" stop-color="#ff3fa4" stop-opacity="0"/><stop offset="0.3" stop-color="#ff8a1f"/><stop offset="0.5" stop-color="#fff1d0"/><stop offset="0.7" stop-color="#ffc35a"/><stop offset="1" stop-color="#a855f7" stop-opacity="0"/></linearGradient>
   <filter id="pg" x="-200%" y="-200%" width="500%" height="500%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   <filter id="soft"><feGaussianBlur stdDeviation="2.5"/></filter>
   <clipPath id="frente"><rect x="340" y="230" width="220" height="30"/></clipPath>
