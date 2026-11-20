@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-100 -100 200 200" width="500" height="500">
+<defs>
+<radialGradient id="bg" cx="0.5" cy="0.5" r="0.7"><stop offset="0" stop-color="#0b1a4a"/><stop offset="0.55" stop-color="#05050e"/><stop offset="1" stop-color="#020206"/></radialGradient>
+<radialGradient id="aura" cx="0.5" cy="0.5" r="0.5"><stop offset="0.45" stop-color="#2f7bff" stop-opacity="0.45"/><stop offset="1" stop-color="#2f7bff" stop-opacity="0"/></radialGradient>
+<radialGradient id="hor" cx="0.5" cy="0.5" r="0.5"><stop offset="0.8" stop-color="#000"/><stop offset="1" stop-color="#0a1a5a" stop-opacity="0"/></radialGradient>
+<linearGradient id="anel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2f7bff"/><stop offset="0.5" stop-color="#f2f8ff"/><stop offset="1" stop-color="#2f7bff"/></linearGradient>
+<linearGradient id="disco" gradientUnits="userSpaceOnUse" x1="-70" y1="0" x2="70" y2="0"><stop offset="0" stop-color="#1f4fff" stop-opacity="0.35"/><stop offset="0.5" stop-color="#fff"/><stop offset="0.75" stop-color="#9fd0ff"/><stop offset="1" stop-color="#1f4fff" stop-opacity="0.35"/></linearGradient>
+<filter id="neon" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur in="SourceGraphic" stdDeviation="4" result="b1"/><feGaussianBlur in="SourceGraphic" stdDeviation="1" result="b2"/><feMerge><feMergeNode in="b1"/><feMergeNode in="b1"/><feMergeNode in="b2"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="-100" y="-100" width="200" height="200" fill="url(#bg)"/>
+<g fill="#cfd8ff"><circle cx="-70" cy="-60" r="0.8"/><circle cx="62" cy="-72" r="1"/><circle cx="75" cy="40" r="0.7"/><circle cx="-80" cy="55" r="0.9"/><circle cx="-40" cy="80" r="0.6"/><circle cx="30" cy="78" r="0.8"/><circle cx="-85" cy="-10" r="0.6"/><circle cx="85" cy="-20" r="0.6"/><circle cx="-20" cy="-85" r="0.7"/></g>
+<circle r="80" fill="url(#aura)"/>
+<g fill="none" filter="url(#neon)" transform="scale(1.15)">
+<g transform="rotate(-62)"><ellipse rx="70" ry="10" stroke="url(#disco)" stroke-width="5" stroke-dasharray="22 5" opacity="0.6"/></g>
+<circle r="40" fill="url(#hor)"/>
+<circle r="37" stroke="#ff2e88" stroke-width="7" opacity="0.4" transform="translate(-1.6 0)"/>
+<circle r="37" stroke="#00e5ff" stroke-width="7" opacity="0.4" transform="translate(1.6 0)"/>
+<circle r="37" stroke="url(#anel)" stroke-width="7"/>
+<circle r="45" stroke="url(#anel)" stroke-width="2.4" opacity="0.7"/>
+<circle r="30" stroke="#fff" stroke-width="1" opacity="0.25"/>
+<g transform="rotate(-62)"><path d="M-70 0 A70 10 0 0 0 70 0" stroke="url(#disco)" stroke-width="6" stroke-dasharray="22 5"/><path d="M-62 4 A62 7 0 0 0 62 4" stroke="#fff" stroke-width="1.2" opacity="0.6"/><circle cx="40" cy="8.2" r="3.2" fill="#fff"/></g>
+<path transform="translate(52 -52)" d="M0 -9 L2 -2 L9 0 L2 2 L0 9 L-2 2 L-9 0 L-2 -2 Z" fill="#f2f8ff"/>
+</g>
+</svg>
