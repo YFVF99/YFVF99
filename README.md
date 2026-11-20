@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/header.svg" width="100%" alt="𝕍∅𝕚𝕕 · editor · tool builder · space wanderer" />
+  <img src="img/header-void.svg" width="100%" alt="𝕍∅𝕚𝕕 · editor · tool builder · space wanderer" />
 </p>
 
 <h3 align="center"><i>"Gravity is just attention that refuses to let go."</i></h3>
@@ -21,7 +21,7 @@ When the tool I need doesn't exist yet, I don't wait for it. I build it, with **
 ### ✦ &nbsp;in my orbit
 
 <p align="center">
-  <img src="img/orbit.svg" width="100%" alt="Premiere Pro, After Effects, Photoshop, Claude Code, Python and JavaScript orbiting a black hole" />
+  <img src="img/orbit-v2.svg" width="100%" alt="Premiere Pro, After Effects, Photoshop, Claude Code, Python and JavaScript orbiting a black hole" />
 </p>
 
 <img src="img/divider.svg" width="100%" />
